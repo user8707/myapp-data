@@ -63,7 +63,7 @@ def display_dataframe():
         st.write("No data to display.")
 
 def main():
-    st.title("Mein Kontakte-App 🎂 (Woche 4)")
+    st.title("Meine Kontakte-App 🎂 (Woche 4)")
     init_github()
     init_dataframe()
     add_entry_in_sidebar()
